@@ -20,10 +20,10 @@ import sys
 import tempfile
 
 # The entry: one self-contained line with a real turn.
-# Setup promises the corporate dream ("achieved work-life balance"),
-# punchline reframes it: the balance was achieved by hating both sides
-# equally. Every word earns its place; nothing can be cut.
-ENTRY = "I finally achieved work-life balance: I now hate both equally."
+# Setup promises the productivity dream ("automated my job"),
+# punchline reframes it: the saved time is spent fearing exposure.
+# Every word earns its place; nothing can be cut.
+ENTRY = "I finally automated my job. Now I have more time to worry about being found out."
 
 
 def _repo_dir():
